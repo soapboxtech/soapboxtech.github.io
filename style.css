@@ -1,0 +1,12 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica, helvetica neue, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+    color: white;
+    background: #13151E;
+    margin: 0;
+}
+.logo {
+    max-width: 400px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
